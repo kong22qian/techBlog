@@ -112,7 +112,7 @@
    ![img](https://img-blog.csdnimg.cn/3839e967fd2942c5bbf40fb9ce17ae45.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Lit5bm05Y2x5py655qE6ICB55S35Lq6,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 ## 总结
-==场景二应用于spring-mybatis当中 扫描dao信息 生成代理类信息==
+==场景二应用于spring-mybatis当中 扫描dao信息 生成代理类信息==  
 ==场景三应用于springboot的自动装配当中 加载自动装配需要的类信息==
 
 https://blog.csdn.net/weixin_45453628/article/details/124234317
