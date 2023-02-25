@@ -113,6 +113,6 @@
 
 ## 总结
 ==场景二应用于spring-mybatis当中 扫描dao信息 生成代理类信息==  
-==场景三应用于springboot的自动装配当中 加载自动装配需要的类信息==
+==场景三应用于springboot的自动装配当中 加载自动装配需要的类信息==  
 
 https://blog.csdn.net/weixin_45453628/article/details/124234317
